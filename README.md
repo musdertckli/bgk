@@ -1,2 +1,2 @@
 # bgk
-web stiper
+web stiper diseño
